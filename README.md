@@ -6,7 +6,7 @@
   ![alt text](https://github.com/MarcoChain/LearnMathWithMNIST/blob/main/images/minus.png?raw=true)
 
 
-In this project we will develop a very naive variational auto-encoder (VAE) to perform very simple math operation. To learn more about this argument I strongly suggest to follow the  [`Yan-LeCunn's course at NYU`](https://github.com/MarcoChain/Data-Lab-2020-March).
+In this project we will develop a very naive variational auto-encoder (VAE) to perform very simple math operation. To learn more about this argument I strongly suggest to follow the  [`Yan-LeCunn's course at NYU`](https://www.youtube.com/watch?v=fs0wacmh_mI).
 
 
 ```python
