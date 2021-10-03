@@ -29,5 +29,5 @@ class Calculator(nn.Module):
         nn.Sigmoid())
 ```
 
-Even without convolutional layers, the result obtained is quite cool. The model learns how to compute addition and subtraction in the range [0-9]. This notebook is inspired by [Yannic](https://www.youtube.com/watch?v=udS2OPohs_s) youtube video and his [notebook](https://colab.research.google.com/drive/1tDjFW7CFGQG8vHdUAVNpr2EG9z0JZGYC?usp=sharing).
+Even without convolutional layers, the result obtained is quite cool. The model learns how to compute addition and subtraction in the range [0-9]. This notebook is inspired by the [Yannic](https://www.youtube.com/watch?v=udS2OPohs_s) youtube video and his [notebook](https://colab.research.google.com/drive/1tDjFW7CFGQG8vHdUAVNpr2EG9z0JZGYC?usp=sharing).
 
